@@ -3,3 +3,4 @@
 - <a href=https://github.com/Inzamulkhan/Cognifyz-Data-Visualization_intern/blob/main/Data_Visualization_Task3%20(1).xlsx>Task3</a>
 - <a href=https://github.com/Inzamulkhan/Cognifyz-Data-Visualization_intern/blob/main/Data_Visualization_Task4.xlsx>Task4</a>
 - <a href=https://github.com/Inzamulkhan/Cognifyz-Data-Visualization_intern/blob/main/Data_Visualization_Task5.xlsx>Task5</a>
+- <a href=https://github.com/Inzamulkhan/Cognifyz-Data-Visualization_intern/blob/main/Data_Visualization_Task6.xlsx>Task6</a>
