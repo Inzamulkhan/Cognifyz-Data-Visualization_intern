@@ -26,7 +26,7 @@
 Cognifyz specializes in AI, ML, and Data Analytics, offering training programs and industry projects.
 
 🔗 Connect with me on LinkedIn
-📌 Connect with me on LinkedIn: [Inzamul Khan](https://www.linkedin.com/in/inzamul-khan-4b92a8275/)
+ [Inzamul Khan](https://www.linkedin.com/in/inzamul-khan-4b92a8275/)
 
 
 #DataVisualization #Excel #DataAnalytics #CognifyzInternship #Dashboard
